@@ -1,0 +1,9 @@
+{
+  "S3BackendStack": {
+    "UserPoolClientId": "7o4vfb553rr4od12q5qcak8ra2",
+    "UserPoolId": "ap-southeast-2_ab6mQLHxR",
+    "BucketName": "s3backendstack-updownbucket28b31daa-g2nakzoc7z1w",
+    "Region": "ap-southeast-2",
+    "IdentityPoolId": "ap-southeast-2:f1685194-11fe-4b4f-863b-4fe87bed2859"
+  }
+}
